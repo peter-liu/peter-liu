@@ -9,7 +9,7 @@
  
 :email: **zsuil@live.com**
 
-📑 **http://starfury.tech**
+📑 **<a href="http://starfury.tech" target="_blank">www.starfury.tech</a>**
 
 <br />
 
