@@ -8,9 +8,9 @@
 </h5> -->
 <h5 align="center">
    
-   - [x] :bank: 金 &nbsp;&nbsp;&nbsp;融
-   - [x] :shopping_cart: 互联网
-   - [ ] :link: 物联网 
+   ⚫️ 金 &nbsp;&nbsp;&nbsp;融\
+   ⚫️ 互联网\
+   ⚪️ 物联网 
  
 </h5>
 
